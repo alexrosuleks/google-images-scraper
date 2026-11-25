@@ -1,0 +1,20 @@
+{
+  "name": "google-images-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Images Scraper: Scrape Google Images: full-size image URLs, dimensions, thumbnails, source pages, site names and titles for any query. No login needed. Export JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "google"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
